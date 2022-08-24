@@ -24,7 +24,7 @@
 #### >>Which provided the model with new features to work on
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-#### >> The performance of the model is slightly improved
+#### >> The performance of the model is deteriorating
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 #### >> i will spend more time trying to tuning Hyperparameters to optimize the model performance
@@ -33,7 +33,7 @@
 |--|--|--|--|--|
 |initial|default|default|default|1.80644|
 |add_features|default|default|default|0.48943|
-|hpo|10|10|5|0.48652|
+|hpo|10|10|5|0.50083|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
